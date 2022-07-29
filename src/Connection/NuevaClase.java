@@ -10,5 +10,7 @@ package Connection;
  * @author Casa
  */
 public class NuevaClase {
-    
+    public static void Mensaje(){
+        System.out.println("Hello world");
+    }
 }
